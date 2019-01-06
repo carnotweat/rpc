@@ -6,7 +6,9 @@ starts the process and launches the shell .
 Except , first is not explicit (and hence doesn't ) occur to you
 untill you dig.                  
 Moreover, it is 2 libraries (roughly to execute command line         
-one-liners of  aria2) , followed by flags of same commands.
+one-liners of  aria2) , followed by flags of same commands.        
+As to how does it exacerbate the matter at hand , here is one example         
+[1](https://twitter.com/nonsameer/status/1081972406342901760)
 
 All the more reason for me to try solving in elisp or bash , beofre I          
 touch python.Just like I seek RPC before touching any API, let alone          
